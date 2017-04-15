@@ -1,0 +1,16 @@
+a) Net Force acting on a ball Fnet=F1+F2. F1 is gravity, therefore it impacts only y component of force. F2 is air resistance. F2 has negative sign. Fnet=m*a=m*((d^2)r/dt^2). 
+
+For x component: Fnet=F2, (d^2)x/dt^2=-pi*R**2*ro*C/(2*m)*V**2
+V**2=Vx*sqrt(Vx**2+Vy**2)
+
+For y component: Fnet=F2, (d^2)x/dt^2=-g-pi*R**2*ro*C/(2*m)*V**2
+V**2=Vy*sqrt(Vx**2+Vy**2)
+
+Vx=dx/dt, Vy=dy/dt
+
+c) Distances are:
+Pb: 796 m
+Au: 1004 m
+K: 152 m
+
+Au ball flies farthest. It is due to the fact that air resistance is not dependent on mass (density) of the material, but shape and size. Therefore, they feel same resistance from air, but that will have different amount of impact depending on mass since F=m*a.
